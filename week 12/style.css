@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+    
+}
+
+input[type=text], select{
+    width: 100%;
+    padding:12px 20px;
+    margin:8px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+
+    input[type=password], select{
+        width: 100%;
+        padding:12px 20px;
+        margin:8px 0;
+        display: inline-block;
+        border-radius: 4px;
+        box-sizing: border-box;
+        }
+
+        button{
+            display:grid;
+            padding:14px 40px;
+            margin:0 30rem;
+            align-items: center;
+            border-radius: 4px;
+            box-sizing: border-box;
+            background-color: burlywood;
+            }
